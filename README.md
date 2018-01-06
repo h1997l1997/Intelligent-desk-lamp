@@ -36,6 +36,16 @@
 台灯全部采用3D打印，打印文件于stl压缩包中
 ![](https://github.com/h1997l1997/Intelligent-desk-lamp/blob/master/base%20v7.png)
 
+## 实物照片
+![](https://github.com/h1997l1997/Intelligent-desk-lamp/blob/master/%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87/IMG_20171201_180848.jpg)
+![](https://github.com/h1997l1997/Intelligent-desk-lamp/blob/master/%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87/IMG_20171202_185215.jpg)
+![](https://github.com/h1997l1997/Intelligent-desk-lamp/blob/master/%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87/IMG_20171202_185230.jpg)
+![](https://github.com/h1997l1997/Intelligent-desk-lamp/blob/master/%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87/IMG_20171202_185249.jpg)
+![](https://github.com/h1997l1997/Intelligent-desk-lamp/blob/master/%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87/IMG_20171202_185310.jpg)
+![](https://github.com/h1997l1997/Intelligent-desk-lamp/blob/master/%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87/IMG_20171202_185331.jpg)
+![](https://github.com/h1997l1997/Intelligent-desk-lamp/blob/master/%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87/IMG_20171202_185404.jpg)
+![](https://github.com/h1997l1997/Intelligent-desk-lamp/blob/master/%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87/IMG_20171221_191652.jpg)
+![](https://github.com/h1997l1997/Intelligent-desk-lamp/blob/master/%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87/IMG_20171222_133135.jpg)
 欢迎star本项目，同时follow本账户
 ---
 欢迎访问[我的博客](http://www.h1997l1997.cn/) 
